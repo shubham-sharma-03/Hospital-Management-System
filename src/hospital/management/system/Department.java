@@ -34,6 +34,7 @@ public class Department extends JFrame {
 
         } catch (Exception e) {
             e.printStackTrace();
+            
         }
 
 
@@ -60,7 +61,6 @@ public class Department extends JFrame {
                 setVisible(false);
             }
         });
-
 
 
         setUndecorated(true);
