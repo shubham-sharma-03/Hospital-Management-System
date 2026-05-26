@@ -169,6 +169,7 @@ public class update_patient_details extends JFrame {
         setLayout(null);
         setLocation(400, 250);
         setVisible(true);
+        
     }
 
     public static void main(String[] args) {
