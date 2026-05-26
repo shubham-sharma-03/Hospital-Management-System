@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c46d9838-a60f-4b0f-ade6-0aa186d6b733" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HMS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Icons/Update.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Icons/amb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Icons/dr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Icons/login.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Icons/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Icons/patient.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Icons/room.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Icons/roomm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hospital/management/system/ALL_patient_Info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hospital/management/system/Ambulance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hospital/management/system/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hospital/management/system/Empolyee_Info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hospital/management/system/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hospital/management/system/New_Patient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hospital/management/system/Reception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hospital/management/system/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hospital/management/system/SearchRoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hospital/management/system/conn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hospital/management/system/patient_discharge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hospital/management/system/update_patient_details.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="32e1ynFbuL1tQ6rNoIYVgma1Ypr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ALL_patient_Info.executor": "Run",
+    "Application.Ambulance.executor": "Run",
+    "Application.Department.executor": "Run",
+    "Application.Empolyee_Info.executor": "Run",
+    "Application.Hospital_Amb.executor": "Run",
+    "Application.Login.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.New_Patient.executor": "Run",
+    "Application.Reception.executor": "Run",
+    "Application.Room.executor": "Run",
+    "Application.Rooms.executor": "Run",
+    "Application.SearchRoom.executor": "Run",
+    "Application.patient_discharge.executor": "Run",
+    "Application.update_patient_details.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/java project/Hospital Management System",
+    "onboarding.tips.debug.path": "D:/java project/Hospital Management System/src/Main.java",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="HMS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="HMS" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.32098.37" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c46d9838-a60f-4b0f-ade6-0aa186d6b733" name="Changes" comment="" />
+      <created>1757766481897</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1757766481897</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/hospital/management/system/Room.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
