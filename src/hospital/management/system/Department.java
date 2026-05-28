@@ -1,7 +1,6 @@
 package hospital.management.system;
 
 import net.proteanit.sql.DbUtils;
-
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
@@ -70,7 +69,6 @@ public class Department extends JFrame {
         setVisible(true);
 
     }
-
 
     public static void main(String[] args) {
         new Department();
