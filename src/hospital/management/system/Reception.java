@@ -124,6 +124,7 @@ public class Reception extends JFrame {
             @Override
             public void actionPerformed(ActionEvent e) {
                 new update_patient_details();
+                
             }
         });
 
@@ -163,7 +164,6 @@ public class Reception extends JFrame {
                 new Login();
             }
         });
-
 
 
         setSize(1950, 1090);
