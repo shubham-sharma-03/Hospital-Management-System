@@ -32,9 +32,6 @@ public class patient_discharge extends JFrame {
         panel.add(label2);
 
 
-
-
-
         Choice choice = new Choice();
         choice.setBounds(200, 80, 150, 25);
         panel.add(choice);
@@ -83,7 +80,6 @@ public class patient_discharge extends JFrame {
         panel.add(INTime);
 
 
-
         JLabel label5 = new JLabel("Out Time");
         label5.setBounds(30, 230, 150, 20);
         label5.setFont(new Font("Tahoma", Font.BOLD, 14));
@@ -120,6 +116,7 @@ public class patient_discharge extends JFrame {
             }
         });
 
+        
         JButton Check = new JButton("Check");
         Check.setBounds(170, 300, 120, 30);
         Check.setBackground(Color.black);
@@ -155,8 +152,6 @@ public class patient_discharge extends JFrame {
                 setVisible(false);
             }
         });
-
-
 
 
         setUndecorated(true);
