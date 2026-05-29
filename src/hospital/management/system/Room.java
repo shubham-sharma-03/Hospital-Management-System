@@ -1,7 +1,6 @@
 package hospital.management.system;
 
 import net.proteanit.sql.DbUtils;
-
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
@@ -79,8 +78,6 @@ public class Room extends JFrame {
                 setVisible(false);
             }
         });
-
-
 
         setUndecorated(true);
         setSize(850, 550);
