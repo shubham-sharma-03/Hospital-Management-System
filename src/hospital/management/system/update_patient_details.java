@@ -50,6 +50,7 @@ public class update_patient_details extends JFrame {
         } catch (Exception e) {
             e.printStackTrace();
         }
+        
 
         JLabel label3 = new JLabel("Room Number :");
         label3.setBounds(25, 129, 150, 14);
@@ -81,16 +82,19 @@ public class update_patient_details extends JFrame {
         textFieldAmount.setBounds(248, 216, 140, 20);
         panel.add(textFieldAmount);
 
+        
         JLabel label6 = new JLabel("Pending Amount (Rs) :");
         label6.setBounds(25, 261, 180, 14);
         label6.setFont(new Font("Tahoma", Font.PLAIN, 14));
         label6.setForeground(Color.WHITE);
         panel.add(label6);
+        
 
         JTextField textFieldPending = new JTextField();
         textFieldPending.setBounds(248, 261, 140, 20);
         textFieldPending.setEditable(false);
         panel.add(textFieldPending);
+        
 
         JButton check = new JButton("CHECK");
         check.setBounds(281, 378, 89, 23);
