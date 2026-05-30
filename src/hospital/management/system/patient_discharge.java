@@ -49,7 +49,6 @@ public class patient_discharge extends JFrame {
         }
 
 
-
         JLabel label3 = new JLabel("Room Number");
         label3.setBounds(30, 130, 150, 20);
         label3.setFont(new Font("Tahoma", Font.BOLD, 14));
