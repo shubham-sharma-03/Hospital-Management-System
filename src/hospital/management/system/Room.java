@@ -19,6 +19,7 @@ public class Room extends JFrame {
         panel.setLayout(null);
         add(panel);
 
+        
         ImageIcon imageIcon = new ImageIcon(ClassLoader.getSystemResource("icons/room.png"));
         Image image = imageIcon.getImage().getScaledInstance(200, 200, Image.SCALE_DEFAULT);
         ImageIcon imageIcon1 = new ImageIcon(image);
@@ -78,6 +79,7 @@ public class Room extends JFrame {
                 setVisible(false);
             }
         });
+        
 
         setUndecorated(true);
         setSize(850, 550);
