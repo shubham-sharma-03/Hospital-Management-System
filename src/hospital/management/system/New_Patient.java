@@ -106,8 +106,7 @@ public class New_Patient extends JFrame implements ActionListener {
         r2.setBounds(361, 191, 80, 20);
         panel.add(r2);
 
-
-
+        
         JLabel labelDisease = new JLabel("Disease :");
         labelDisease.setBounds(35, 231, 200, 14);
         labelDisease.setFont(new Font("Tahoma", Font.BOLD, 14));
@@ -118,7 +117,6 @@ public class New_Patient extends JFrame implements ActionListener {
         textFieldDisease = new JTextField();
         textFieldDisease.setBounds(271, 231, 150, 20);
         panel.add(textFieldDisease);
-
 
 
         JLabel labelRoom = new JLabel("Room :");
@@ -138,12 +136,12 @@ public class New_Patient extends JFrame implements ActionListener {
             e.printStackTrace();
         }
 
+        
         c1.setBounds(271, 274, 150, 20);
         c1.setFont(new Font("Tahoma", Font.BOLD, 14));
         c1.setForeground(Color.white);
         c1.setBackground(new Color(3, 43, 48));
         panel.add(c1);
-
 
 
         JLabel labelDate = new JLabel("Time :");
@@ -152,6 +150,7 @@ public class New_Patient extends JFrame implements ActionListener {
         labelDate.setForeground(Color.white);
         panel.add(labelDate);
 
+        
         Date date1 = new Date();
         date = new JLabel(""+date1);
         date.setBounds(271, 316, 250, 14);
