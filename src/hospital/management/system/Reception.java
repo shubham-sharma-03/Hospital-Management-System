@@ -41,7 +41,6 @@ public class Reception extends JFrame {
         panel1.add(label1);
 
 
-
         JButton btn1 = new JButton("Add New Patient");
         btn1.setBounds(30, 15, 200, 30);
         btn1.setBackground(new Color(246, 215, 118));
@@ -92,7 +91,6 @@ public class Reception extends JFrame {
         });
 
 
-
         JButton btn5 =new JButton("Patient Info");
         btn5.setBounds(270, 58, 200, 30);
         btn5.setBackground(new Color(246, 215, 118));
@@ -116,6 +114,7 @@ public class Reception extends JFrame {
             }
         });
 
+        
         JButton btn7 =new JButton("Update Patient Details");
         btn7.setBounds(510, 15, 200, 30);
         btn7.setBackground(new Color(246, 215, 118));
