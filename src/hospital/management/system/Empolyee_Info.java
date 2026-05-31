@@ -18,13 +18,11 @@ public class Empolyee_Info extends JFrame {
         panel.setLayout(null);
         add(panel);
 
-
         JTable table = new JTable();
         table.setBounds(10, 34, 980, 450);
         table.setBackground(new Color(109, 164, 170));
         table.setFont(new Font("Tahoma", Font.BOLD, 12));
         panel.add(table);
-
 
 
         try {
@@ -84,7 +82,6 @@ public class Empolyee_Info extends JFrame {
                 setVisible(false);
             }
         });
-
 
 
         setUndecorated(true);
