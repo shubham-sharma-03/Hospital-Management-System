@@ -45,6 +45,7 @@ public class Empolyee_Info extends JFrame {
         label2.setFont(new Font("Tahoma", Font.BOLD, 14));
         panel.add(label2);
 
+        
 
         JLabel label3 = new JLabel("Phone Number");
         label3.setBounds(350, 9, 200, 20);
@@ -70,7 +71,6 @@ public class Empolyee_Info extends JFrame {
         panel.add(label6);
 
 
-
         JButton button = new JButton("BACK");
         button.setBounds(450, 510, 120, 38);
         button.setBackground(Color.black);
@@ -91,7 +91,6 @@ public class Empolyee_Info extends JFrame {
         setVisible(true);
 
     }
-
 
     public static void main(String[] args) {
         new Empolyee_Info();
