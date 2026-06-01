@@ -15,13 +15,10 @@ public class New_Patient extends JFrame implements ActionListener {
     JTextField textFieldNumber, textName, textFieldDisease, textFieldDeposite;
 
     JRadioButton r1, r2;
-
     Choice c1;
-
     JLabel date;
-
     JButton b1, b2;
-
+    
     New_Patient(){
 
         JPanel panel = new JPanel();
