@@ -42,12 +42,10 @@ public class Department extends JFrame {
         label1.setFont(new Font("Tahoma", Font.BOLD, 14));
         panel.add(label1);
 
-
         JLabel label2 = new JLabel("Phone Number");
         label2.setBounds(431, 11, 150, 20);
         label2.setFont(new Font("Tahoma", Font.BOLD, 14));
         panel.add(label2);
-
 
         JButton b1 = new JButton("BACK");
         b1.setBounds(400, 410, 130, 30);
@@ -60,7 +58,6 @@ public class Department extends JFrame {
                 setVisible(false);
             }
         });
-
 
         setUndecorated(true);
         setSize(700, 500);
