@@ -118,13 +118,3 @@ LinkedIn: https://www.linkedin.com/in/shubhamsharma2004/
 Java Backend Developer
 
 ⭐ If you found this project useful, consider giving it a Star.
-
-
-
-
-Links
-
-Connect With Me
-
-GitHub: https://github.com/shubham-sharma-03/digital-banking-system
-LinkedIn: https://www.linkedin.com/in/shubhamsharma2004/
