@@ -106,7 +106,7 @@ git clone https://github.com/shubham-sharma-03/Hospital-Management-System.git
 
 Connect With Me
 
-GitHub: https://github.com/shubham-sharma-03/digital-banking-system       
+GitHub: https://github.com/shubham-sharma-03/Hospital-Management-System  
 LinkedIn: https://www.linkedin.com/in/shubhamsharma2004/
 
 ----
